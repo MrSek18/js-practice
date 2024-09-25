@@ -37,7 +37,7 @@ let newc1 = ["pedro", "maría", "jorge"];
 // document.write("Objeto eliminado: <b style ='color:red'>" + r17 + "</b> <br>");
 // document.write("Array modificado: <b style ='color:black'>" + newc1 + "</b> <br>");
 
-
+let newchain = 0;
 let newc2 = ["sek", "jr", "touch"];
 
 document.write(newc2 + "<br>");
