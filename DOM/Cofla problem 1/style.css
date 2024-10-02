@@ -1,0 +1,46 @@
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-family: sans-serif;
+}
+
+.flex-item{
+    display: flex;
+    margin: 20px;
+    max-width: 300px;
+    border: 2px solid #333;
+    flex-direction: column;
+    padding: 20px;
+}
+.flex-item:hover{
+    border-color: #999;
+    box-shadow: 0px 0px 30px #999;
+}
+.flex-item:focus{
+    border-color: #999;
+    box-shadow: 0px 0px 30px #999;
+}
+
+
+h3 {
+    color: #666;
+}
+
+p b {
+    color: #2f9;
+}
+
+.llave-img{
+    max-width: 250px;
+    max-height: 250px;
+
+}
+
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

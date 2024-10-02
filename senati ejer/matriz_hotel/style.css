@@ -1,0 +1,33 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+
+.matriz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+    border: 1px solid #f00;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.matriz-habitaciones {
+    margin-top: 20px;
+    width: 300px;
+    height: 120px;
+    border: 1px solid #f00;
+    font-size: 18px;
+}

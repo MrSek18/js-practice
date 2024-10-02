@@ -1,0 +1,17 @@
+body{
+    color: #222;
+
+}
+
+.bloque{
+    width: 100px;
+    height: 100px;
+    border: 1px solid gray;
+    background-color: #a84848; 
+    /* easy el hexadecimal */
+}
+
+
+.grande {
+    font-size: 100px;
+}
